@@ -1,0 +1,9 @@
+
+{
+  "properties": [
+    {
+      "name": "spring.jpa.mode",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.mode."
+  }
+] }
